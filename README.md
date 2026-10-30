@@ -18,7 +18,7 @@ In strong gravitational fields governed by Albert Einstein's General Relativity,
 
 ## 📸 Simulation Result
 
-![Black Hole Ray-Tracing Output](.asset/black_hole_simulation.png)
+![Black Hole Ray-Tracing Output](.assetblack_hole_simulation.png)
 
 *Simulated optical appearance of a Schwarzschild black hole shadow, photon sphere rings, and Doppler-beamed accretion disk.*
 
